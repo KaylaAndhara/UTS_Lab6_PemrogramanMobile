@@ -1,11 +1,11 @@
 # Quizzy – Aplikasi Kuis Pilihan Ganda
 
 ## 👤 Identitas Mahasiswa
-| | |
-|---|---|
-| **Nama** | _(isi nama lengkap)_ |
-| **NIM** | _(isi NIM)_ |
-| **Lab** | Pemrograman Mobile – IKLC USU (PM _…_) |
+| |                                            |
+|---|--------------------------------------------|
+| **Nama** | **Kayla Andhara**                          |
+| **NIM** | **241401081**                              |
+| **Lab** | **Lab 6 Pemrograman Mobile**  |
 
 ## 📱 Informasi Aplikasi
 **Nama Aplikasi:** Quizzy
@@ -53,9 +53,9 @@ assets/
 - **Gambar (logo.png, hero.png, trophy.png)** – dibuat sendiri _(sesuaikan dengan asetmu)_
 
 ### Screenshot
-| Beranda | Kuis | Hasil |
-|---|---|---|
-| _(tambahkan)_ | _(tambahkan)_ | _(tambahkan)_ |
+| Beranda                                                     | Kuis | Hasil |
+|-------------------------------------------------------------|---|---|
+| _([Tampilan Beranda Quizzy](docs/screenshots/beranda.png))_ | _([Tampilan Kuis Quizzy](docs/screenshots/kuis.png))_ | _([Tampilan Hasil Quizzy](docs/screenshots/hasil.png))_ |
 
 > Simpan screenshot di folder `docs/screenshots/` lalu tautkan di sini.
 
